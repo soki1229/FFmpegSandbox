@@ -1,9 +1,7 @@
 extern "C" {
-#include <libavformat/avformat.h>
+#include <libavcodec/avcodec.h>
 #include <libavutil/avutil.h>
 }
 #include <iostream>
 
-int main() {
-    return 0;
-}
+int main() { return 0; }

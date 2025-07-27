@@ -1,10 +1,8 @@
 extern "C" {
-#include <libswresample/swresample.h>
 #include <libavutil/audio_fifo.h>
 #include <libavutil/avutil.h>
+#include <libswresample/swresample.h>
 }
 #include <iostream>
 
-int main() {
-    return 0;
-}
+int main() { return 0; }

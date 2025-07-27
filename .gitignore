@@ -3,6 +3,7 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 *.cmake
+!cmake/CommonSettings.cmake
 *.o
 *.a
 *.so
